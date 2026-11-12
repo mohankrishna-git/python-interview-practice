@@ -1,3 +1,4 @@
+# Updated for GitHub Pull Request practice
 # Program to check whether a number is prime
 # Practising Git version control
 
