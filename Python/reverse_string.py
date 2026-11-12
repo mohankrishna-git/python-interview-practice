@@ -1,3 +1,4 @@
+# Updated for Git pull practice
 # Reverse a string
 
 text = input("Enter a string: ")
