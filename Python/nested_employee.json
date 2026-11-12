@@ -1,0 +1,26 @@
+{
+    "emp_id": 1001,
+    "emp_name": "Asha",
+    "department": "IT",
+    "salary": 95000,
+    "address": {
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "pincode": 500072
+    },
+    "skills": [
+        "Python",
+        "SQL",
+        "PySpark"
+    ],
+    "projects": [
+        {
+            "project_name": "Retail Analytics",
+            "role": "Data Engineer"
+        },
+        {
+            "project_name": "Customer Analytics",
+            "role": "Developer"
+        }
+    ]
+}

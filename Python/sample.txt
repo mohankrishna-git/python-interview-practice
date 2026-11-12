@@ -1,0 +1,4 @@
+My name is Asha.
+I am learning Python.
+I am preparing for Data Engineering interviews.
+Python is useful for data processing.
