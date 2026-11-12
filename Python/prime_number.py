@@ -1,3 +1,6 @@
+# Program to check whether a number is prime
+# Practising Git version control
+
 # Check whether a number is prime or not
 
 num = int(input("Enter a number: "))
